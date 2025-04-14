@@ -4,7 +4,7 @@ const Home = () => {
     return(
         <main className="main">
             <dive className = "gird">
-                <h1>Home Page</h1>
+                <h1>Plant Paradise page</h1>
             </dive>
         </main>
     )
