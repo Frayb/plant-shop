@@ -1,7 +1,7 @@
 import productList from '../data/productData'
 import React from "react";
 import { useDispatch } from "react-redux";
-import { addToCart } from "../redux/slices/cartSlice"; // Make sure this action exists
+import { addToCart } from "../redux/slices/cartSlice"; 
 
 const Product = () => {
     const dispatch = useDispatch();
